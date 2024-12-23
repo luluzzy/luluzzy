@@ -1,4 +1,3 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=luluzzy&hide=issues&show_icons=true&include_all_commits=true&theme=vue&count_private=true" />
 
 - 👋 Hi, there! I’m @luluzzy
 - ✨ Using device 📱meizu20/ Xiaomi13/ iPad Pro 2021
@@ -6,6 +5,9 @@
 - 🏫 Studying at University....@DGUT
 - == Hoping for a better Future ==
 - 
+
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=luluzzy&hide=issues&show_icons=true&include_all_commits=true&theme=vue&count_private=true" />
 
 <!---
 luluzzy/luluzzy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
