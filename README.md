@@ -1,12 +1,16 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8985F7&width=435&lines=Tech+otakus+save+the+world" alt="Typing SVG" /></a>
 
-- 👋 Hi, there! I’m @luluzzy   <img align="right" src="https://github-readme-stats.vercel.app/api?username=luluzzy&hide=issues&show_icons=true&include_all_commits=true&theme=vue&count_private=true" />
 
-- ✨ Using device 📱meizu21/ Xiaomi13/ iPad Pro 2021
-- 🌱 I’m currently learning C/typeScript/Python
-- 🌱 as well as a Android Kernel Developer
-- 🏫 Studying at University....
-- ✨ Hoping for a better Future
-  
+<h3>Konichiwa 👋 I'm <samp>luluzzy</samp></h3>
+
+<pre>
+    💼 Hobbyist developer Just for fun!
+    💻 Use programming languages C/Python/Java most.
+    📖 Studying at University Major Material Science
+    🎮 Games GenshinImpact/HKSR/Valorant/Minecraft...
+    📱 MEIZU 21/ Xiaomeme 13/ iPad Pro 2021
+</pre>
+
 
 <!---
 luluzzy/luluzzy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
